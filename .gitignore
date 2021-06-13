@@ -1,12 +1,12 @@
 # =============== #
 # Unity generated #
 # =============== #
-/2021_Zelda_Game/[Tt]emp/
-/2021_Zelda_Game/[Oo]bj/
-/2021_Zelda_Game/[Bb]uild
-/2021_Zelda_Game/[Bb]uilds/
-/2021_Zelda_Game/[Ll]ibrary/
-/2021_Zelda_Game/[Ll]ogs/
+/Zelda_Game/[Tt]emp/
+/Zelda_Game/[Oo]bj/
+/Zelda_Game/[Bb]uild
+/Zelda_Game/[Bb]uilds/
+/Zelda_Game/[Ll]ibrary/
+/Zelda_Game/[Ll]ogs/
 sysinfo.txt
 *.stackdump
 /Assets/AssetStoreTools*
